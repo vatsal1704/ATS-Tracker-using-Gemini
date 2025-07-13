@@ -43,16 +43,19 @@ An intelligent Applicant Tracking System (ATS) Tracker built with **Python** and
 ---
 
 ### 🖼️ Resume Upload & Job Description Input
-> *<img width="1485" height="825" alt="Screenshot (365)" src="https://github.com/user-attachments/assets/75b43458-827c-40f5-8bbf-335d50b3c8c6" />
+>  <img width="1485" height="825" alt="Screenshot (365)" src="https://github.com/user-attachments/assets/75b43458-827c-40f5-8bbf-335d50b3c8c6" />
 
 >  <img width="1388" height="849" alt="Screenshot (366)" src="https://github.com/user-attachments/assets/59f13e80-f0fc-4d5a-8ba4-45eeffba58ef" />
 
-*
 
 ---
 
 ### 🖼️ Match Percentage and Resume Insights
-> *Insert screenshot here*
+>  <img width="1527" height="863" alt="Screenshot (367)" src="https://github.com/user-attachments/assets/ef6576d3-f4dd-489b-a416-d28288176295" />
+
+>  <img width="1233" height="849" alt="Screenshot (368)" src="https://github.com/user-attachments/assets/e694b369-c547-469a-a820-670ab010c88d" />
+
+
 
 ---
 
