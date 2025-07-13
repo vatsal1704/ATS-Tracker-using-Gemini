@@ -38,7 +38,7 @@ An intelligent Applicant Tracking System (ATS) Tracker built with **Python** and
 
 ## 🌐 Live Demo
 
-👉 [Click here to try the live demo](#)  
+👉 [Click here to try the live demo](https://ats-tracker-gemini.streamlit.app/)  
 ---
 
 ## 📸 Screenshots
